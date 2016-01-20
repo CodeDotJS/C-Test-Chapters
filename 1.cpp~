@@ -44,7 +44,7 @@ class Employee {
 int main()
 {
     Employee emp1;
-    emp1.setName("Rishi Giri");
+    emp1.setName("Jane Doe");
     cout << emp1.getName();
     return 0;
 }
